@@ -11,6 +11,7 @@
   height: 100vh;
   background-color: white;
   margin-left: 25vw;
+  text-align: justify;
 }
 
 .strip
@@ -20,4 +21,5 @@
   width: 100vw;
   height: 5vh;
   background-color: red;
+  text-align: center;
 }
